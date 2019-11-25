@@ -23,3 +23,6 @@ osu! Korean Amateur League Season 2 포럼 페이지 : https://osu.ppy.sh/commun
 * 이전 참가자 리스트
 * 이전 경기결과
 * o!KAL 시즌 1
+
+
+<button href="https://www.naver.com/">테스트</button>
