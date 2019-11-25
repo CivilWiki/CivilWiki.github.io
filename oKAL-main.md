@@ -4,7 +4,7 @@
 
 Civil oath가 주최하는 osu! Korean Amateur League의 다양한 정보를 담고 있는 사이트 입니다.
 
-트위치 방송주소 : https://www.twitch.tv/koreanamateurleague 
+트위치 방송주소 : <a href="https://www.twitch.tv/koreanamateurleague"/>https://www.twitch.tv/koreanamateurleague</a>
 
 디스코드 주소 : https://discord.gg/XpJ7Eua 
 
