@@ -92,8 +92,6 @@ TWICE - What is Love? [Movie]+DT
 
 ## 1-6. 팀전 예시
 
-<Team Chitoge>
-
 Chitogod
 
 https://osu.ppy.sh/users/6076529
