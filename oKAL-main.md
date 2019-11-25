@@ -15,11 +15,19 @@ osu! Korean Amateur League Season 2 포럼 페이지 : <https://osu.ppy.sh/commu
 ## 목록
 
 * 이번 주의 참가자 리스트
+
 * 이번 주의 경기 내용
+
 * o!KAL 리더보드
+
 * 대회 참가자 목록
+
 * 대회 규칙
+
 * 스탭 명단
+
 * 이전 참가자 리스트
+
 * 이전 경기결과
+
 * o!KAL 시즌 1
