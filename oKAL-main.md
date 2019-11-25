@@ -22,9 +22,9 @@ osu! Korean Amateur League Season 2 포럼 페이지 : <https://osu.ppy.sh/commu
 
 * 대회 참가자 목록
 
-* 대회 규칙
+* <a href="https://civilwiki.github.io/oKAL-rules"><button>대회 규칙</button></a>
 
-* <a href="https://civilwiki.github.io/oKAL-rules"><button>스탭 명단</button></a>
+* 스탭 명단
 
 * 이전 참가자 리스트
 
