@@ -4,13 +4,13 @@
 
 Civil oath가 주최하는 osu! Korean Amateur League의 다양한 정보를 담고 있는 사이트 입니다.
 
-트위치 방송주소 : https://www.twitch.tv/koreanamateurleague
+트위치 방송주소 : <https://www.twitch.tv/koreanamateurleague>
 
-디스코드 주소 : https://discord.gg/XpJ7Eua 
+디스코드 주소 : <https://discord.gg/XpJ7Eua> 
 
-osu! Korean Amateur League Season 2 포럼 페이지 : https://osu.ppy.sh/community/forums/topics/974856 
+osu! Korean Amateur League Season 2 포럼 페이지 : <https://osu.ppy.sh/community/forums/topics/974856> 
 
-현재 진행되는 주의 osu! Fan cafe 게시글 : https://cafe.naver.com/ofclove/494794 
+현재 진행되는 주의 osu! Fan cafe 게시글 : <https://cafe.naver.com/ofclove/494794>
 
 ## 목록
 
