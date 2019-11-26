@@ -14,17 +14,17 @@ osu! Korean Amateur League Season 2 포럼 페이지 : <https://osu.ppy.sh/commu
 
 ## 목록
 
-* <a href="https://civilwiki.github.io/oKAL-weekplayer"><button>이번 주의 참가자 리스트</button></a>
+* <a href="https://civilwiki.github.io/oKAL-menu/weekplayer"><button>이번 주의 참가자 리스트</button></a>
 
-* <a href="https://civilwiki.github.io/oKAL-weekgame"><button>이번 주의 경기 내용</button></a>
+* <a href="https://civilwiki.github.io/oKAL-menu/weekgame"><button>이번 주의 경기 내용</button></a>
 
-* <a href="https://civilwiki.github.io/oKAL-leaderboard"><button>o!KAL 리더보드</button></a>
+* <a href="https://civilwiki.github.io/oKAL-menu/leaderboard"><button>o!KAL 리더보드</button></a>
 
-* <a href="https://civilwiki.github.io/oKAL-playerlist"><button>대회 참가자 목록</button></a>
+* <a href="https://civilwiki.github.io/oKAL-menu/playerlist"><button>대회 참가자 목록</button></a>
 
-* <a href="https://civilwiki.github.io/oKAL-rules"><button>대회 규칙</button></a>
+* <a href="https://civilwiki.github.io/oKAL-menu/rules"><button>대회 규칙</button></a>
 
-* <a href="https://civilwiki.github.io/oKAL-stafflist"><button>스탭 명단</button></a>
+* <a href="https://civilwiki.github.io/oKAL-menu/stafflist"><button>스탭 명단</button></a>
 
 * 이전 참가자 리스트
 
